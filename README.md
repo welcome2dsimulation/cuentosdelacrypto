@@ -1,3 +1,2 @@
 # cuentosdelacrypto
-Landing Page - Cuentos de la Crypto
-Landing page describing Cuentos de la Crypto and links to social media.
+Landing Page - Cuentos de la Crypto describing its goal and links to social media.
